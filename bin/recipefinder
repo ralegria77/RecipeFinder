@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby  
+
+#fun fact: In the 1950s, secretarial dictation and typesetting manuals in America referred to the exclamation mark as "bang" 
+
+require_relative "../config/environment"  #i need this env file to actually run the program
+
+puts "hello"
+
