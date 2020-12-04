@@ -1,2 +1,2 @@
-# class RecipeFinder::Recipe
-# end
+class RecipeFinder::Recipe
+end

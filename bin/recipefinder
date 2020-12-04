@@ -4,5 +4,5 @@
 
 require_relative "../config/environment"  #i need this env file to actually run the program
 
-puts "hello"
+
 
