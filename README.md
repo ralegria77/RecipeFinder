@@ -9,8 +9,11 @@ User story: Looking for concise list of recipes based on ingredients on hand!
 Data source:  API - www.recipepuppy.com/api/
 
 Data manipulation: Data will need to be able to:
+
     - take in user input
+
     - return results that include input
+    
     - results will display a recipe, all its ingredients, and a link to the recipe (hosted on another site)
 
 Class creation: recipe, cli, api
