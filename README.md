@@ -1,5 +1,5 @@
 # RecipeFinder
-CLI project takes user ingredients and returns recipes with those ingredients
+Recipe finder using API
 
 ## Objectives
 App function: Finds and returns links to recipes
